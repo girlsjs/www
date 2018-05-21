@@ -1,2 +1,4 @@
 .DS_Store
 node_modules/
+pl/themes/www-theme
+db.json
