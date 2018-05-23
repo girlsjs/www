@@ -1,7 +1,7 @@
 ---
-title: Więcej kobiet w branży IT
+title: Uczymy JavaScriptu
 categories: panel-workshop
 description:
-  Chcemy przyciągniąć do kodowania kobiety, ponieważ – mimo wielu inicjatyw i zachęt – wciąż stanowią one niewielki odsetek zatrudnionych w branży IT.
+  Organizujemy warsztaty z programowania w języku JavaScript, z niezbędnym dodatkiem HTML i CSS.
 ---
-W środowisku javascriptowym nie było do tej pory inicjatywy dedykowanej kobietom – podobnej do [Rails Girls](http://railsgirls.com/) (dla programistek Ruby on Rails) czy [Django Girls](https://djangogirls.org/) (dla programistek Pythona). Wypełniamy tę lukę, a dla ułatwienia branżowego debiutu oferujemy zajęcia całkiem za darmo.
+Dlaczego właśnie JS? To proste: nie ma obecnie popularniejszego i bardziej niezbędnego języka programowania. Bez JavaScriptu strony www byłyby pozbawione m.in. elementów interaktywnych. Co więcej, [statystyki GitHuba](http://githut.info/) potwierdzają – JavaScript to obecnie język nr 1 w sieci, a zapotrzebowanie na programistki i programistów JS rośnie.
