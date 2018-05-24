@@ -118,7 +118,9 @@ konkretne typy wpisów:
 * `directory` - nazwa katalogu w `source/images/galleries` np: `poznan-1`
 * `description` - opis
 * `collage` - lista 4 nazw zdjęć do kolażu na str. głównej
-* `photos` - lista wszystkich zdjęć z katalogu (todo będzie poprawione)
+
+Dodatkowo, galerie używają w treści znacznika autogallery do automatycznego budowania galerii:
+`{% autogallery autogallery images/galleries/poznan-1 %}`
 
 #### Materials (materiały)
 
